@@ -29,3 +29,10 @@ At this point, I just jumped straight into it, and ended up with the following c
 - 1 x USB WiFi Adapter
 
 Now I "just" needed to code it all.
+
+## License
+Everything you find here, is free for you to use.
+
+Do as you please.
+
+You can show support by ordering your next car using my referral link: https://ts.la/peter62069
